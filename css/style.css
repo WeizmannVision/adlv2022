@@ -70,7 +70,7 @@ a:hover {
   white-space: nowrap;
   margin-bottom: 0em;
   text-align:center;
-  font-size:16px;
+  font-size:large;
 }
 
 
@@ -84,7 +84,7 @@ a:hover {
 	font-size: inherit;
 }
 .schedule_week {
-	font-size: small;
+	font-size: large;
 	background-color: #CCF;
 }
 
