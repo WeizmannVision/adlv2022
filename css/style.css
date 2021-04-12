@@ -84,7 +84,7 @@ a:hover {
 	font-size: inherit;
 }
 .schedule_week {
-	font-size: large;
+	font-size: larger;
 	background-color: #CCF;
 }
 
@@ -153,6 +153,6 @@ table.psets {
 
 /* Niv */
 .paper {
-	font-size: 13px; 
+	font-size: medium; 
 	text-decoration: none;
 }
